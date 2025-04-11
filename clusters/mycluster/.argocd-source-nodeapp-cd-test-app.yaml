@@ -1,0 +1,3 @@
+kustomize:
+  images:
+  - skim16198556/nodeapp-git:1.2.0
